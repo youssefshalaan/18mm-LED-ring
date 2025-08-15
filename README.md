@@ -21,7 +21,7 @@ It features **9 5mm LEDs** with individual **¼W resistors**, arranged around an
 ## Visuals
 | 3D View | PCB Tracks |
 | ------- | ---------- |
-| ![3D Render](assets/3d.png) | ![Tracks View](assets/tracks.png) |
+| ![3D Render](assets/tracks.png) | ![Tracks View](assets/3d.png) |
 
 ## Usage
 - Connect a suitable DC power source via the 2.5 mm pin header.
