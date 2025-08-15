@@ -29,4 +29,4 @@ It features **9 5mm LEDs** with individual **¼W resistors**, arranged around an
 - Insert LEDs and resistors, solder in place, and enjoy the illumination.
 
 ## License
-You are free to use and modify this design for personal or educational purposes.
+You are free to use and modify this design for your own uses.
