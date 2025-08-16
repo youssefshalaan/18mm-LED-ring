@@ -27,6 +27,7 @@ It features **9 5mm LEDs** with individual **¼W resistors**, arranged around an
 - Connect a suitable DC power source via the 2.5 mm pin header.
 - Mount using the two 3 mm holes.
 - Insert LEDs and resistors, solder in place, and enjoy the illumination.
+- **Note:** The outer pin on all LEDs is the + pin or anode
 
 ## License
 You are free to use and modify this design for your own uses.
